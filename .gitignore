@@ -1,3 +1,6 @@
+# Visual Studio and build files 
 .vs
 **/x64
-*.cso
+
+# Compiled shaders
+**/*.cso
